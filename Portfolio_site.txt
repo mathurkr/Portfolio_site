@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Kavi Mathur</title>
+	</head>
+	<body  style="font-family:Sans Serif;background-color:cyan">
+	    <a href="https://ibb.co/gh9Nek"><img src="https://preview.ibb.co/hFkvzk/pfpp.jpg" alt="pfpp" border="0"></a><br /><br />
+	    <p>19 y/o</p>
+	    <p>Male</p>
+	    <p>Irvine, CA</p>
+	    <h1  style="color:blue;font-size:50">About Me</h1>
+	    <ul>
+	        <li>Interests: National Parks, Food, Vinyl/Turntablism, Tabla, Low-Fi Hip Hop, SSBM</li>
+	        <li>Jobs: Club Officer, The Association of Gamers at UCI; Lab Technician, UCI Stem Cell Research Center.</li>
+	        <li>"It's funny how the music put times in perspective/ Add a soundtrack to your life and perfect it/ Whenever you are feeling blue keep walkin and we can get far/ Wherever you are." - Shing02</li>
+	        <li>Have lived in Irvine since birth.</li>
+        </ul>
+        
+        <h2 style="color:green">Languages</h2>
+        <ol>
+            <li><h3>Behind the Screen</h3><ul>
+                <li>Python:***</li>
+                <li>Java:**</li>
+                <li>HTML/CSS:*</li>
+            </ul></li>
+            <li><h3>In Front of the Screen</h3><ul>
+                <li>English: Fluent</li>
+                <li>Spanish: Intermediate</li>
+                <li>Japanese: Beginner</li>
+            </ul></li>
+        </ol>
+        
+                
+                
+                
+            
+            
+	        
+	        
+	</body>
+</html>
